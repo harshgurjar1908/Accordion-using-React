@@ -56,6 +56,6 @@ Thank you for checking out the Accordion using React! Feel free to use and modif
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-gurjar-389ab6157/)!
 
-Happy task managing! 📝✅
+Happy Coding! 📝✅
 
 
