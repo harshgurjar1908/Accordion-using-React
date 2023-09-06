@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 
 ## Demo
 
-View a live demo of this Accordion project at [Demo](https://harshgurjar.github.io/accordion-using-react/).
+View a live demo of this Accordion project at [Demo](https://github.com/harshgurjar1908/Accordion-using-React/blob/master/preview/Screenshot%202023-09-06%20205940.png).
 
 ## Features
 
